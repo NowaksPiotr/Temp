@@ -24,5 +24,7 @@ function reveal(){
             }
         }, 800);
 
+    }else{
+        alert("Access denied.")
     }
 }
